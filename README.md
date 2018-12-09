@@ -1,0 +1,2 @@
+# retkikuvat
+AWS-harjoittelua varten
